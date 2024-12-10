@@ -1,0 +1,12 @@
+./req/anna_orig.mp3
+./req/save_orig.mp3
+./req/snow_orig.mp3
+./req/input.mp3
+./req/anna_dict.mp3
+./req/anna_speedup.mp3
+./req/anna_ecv.mp3
+./req/save_dict.mp3
+./req/save_speeddown.mp3
+./req/save_ecv.mp3
+./req/snow_tonmin.mp3
+./req/snow_tonplus.mp3
